@@ -2,7 +2,8 @@
 <h3 align="center">🚀 Open Source Enthusiast | 💡 Lifelong Learner | 💻 Passionate Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruchikatalele12&label=Profile%20views&color=0e75b6&style=flat" alt="ruchikatalele12" />
+  <img src="DUMMY%20DRUCHA%20PIC.jpg" alt="Profile" width="300"/>
+
 </p>
 
 <p align="center">
