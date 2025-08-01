@@ -2,8 +2,7 @@
 <h3 align="center">🚀 Open Source Enthusiast | 💡 Lifelong Learner | 💻 Passionate Developer</h3>
 
 <p align="center">
-  <img src="DUMMY%20DRUCHA%20PIC.jpg" alt="Profile" width="300"/>
-
+  <img src="https://komarev.com/ghpvc/?username=ruchikatalele12&label=Profile%20views&color=0e75b6&style=flat" alt="ruchikatalele12" />
 </p>
 
 <p align="center">
@@ -29,11 +28,12 @@
 ### 💬 Ask me about:
 - Web Development (HTML, CSS, JavaScript, React)
 - Python & AI/ML Basics
+- Firebase & Flutter Integration
 
 ### 📫 How to reach me:
 - ✉️ Email: **ruchikatalele1@gmail.com**
 - 💼 [LinkedIn](https://linkedin.com/in/ruchika-talele12)
-- 📺 [YouTube: Rucha-Verse]([https://www.youtube.com/c/rucha-verse](https://www.youtube.com/@RuchikaTalele))
+- 📺 [YouTube: Rucha-Verse](https://www.youtube.com/c/rucha-verse)
 
 ### ⚡ Fun fact:
 **I talk to my code — and sometimes, it actually listens 😄.**
@@ -70,7 +70,7 @@
 ### ☕ Support Me
 
 <p>
-  <a href="buymeacoffee.com/ruchikatalk" target="_blank">
+  <a href="https://www.buymeacoffee.com/ruchikatalele" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
