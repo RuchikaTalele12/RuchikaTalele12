@@ -1,107 +1,97 @@
-<h1 align="center">Hi 👋, I'm Ruchika Talele</h1>
-<h3 align="center">🚀 Open Source Enthusiast | 💡 Lifelong Learner | 💻 Passionate Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2e72d6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ruchika+Talele!;AI+%7C+ML+%7C+Flutter+Developer;Open+to+Collaboration+%F0%9F%94%A5" alt="Typing SVG">
+</p>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruchikatalele12&label=Profile%20views&color=0e75b6&style=flat" alt="ruchikatalele12" />
+  <b>B.E. Computer Science & Engineering</b><br>
+ J .T . Mahajan College Of Engineering Faizpur — Class of 2026<br>
+  Maharashtra, India 🇮🇳
 </p>
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" alt="YOLO"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" alt="Quickdraw"/>
+  <a href="https://www.linkedin.com/in/ruchikatal-ele/"><img src="https://img.shields.io/badge/LinkedIn-Ruchika--Talele-blue?logo=linkedin"></a>
+  <a href="mailto:ruchikatal-ele@gmail.com"><img src="https://img.shields.io/badge/Email-ruchikatal--ele@gmail.com-red?logo=gmail"></a>
 </p>
 
 ---
 
-<table>
-<tr>
-<td>
+## 📚 About Me
 
-### 🔭 I’m currently working on:
-- [Maintenanace-support-1](https://github.com/RuchikaTalele12/Maintenanace-support-1.git)
+A passionate **AI & Flutter Developer**, currently pursuing my B.E in **Computer Science**. I build intelligent systems that bridge innovation and user experience — from mobile apps to AI-driven tools. I love solving real-world problems and exploring the possibilities of **machine learning**, **blockchain**, and **full-stack development**.
 
-### 🌱 I’m currently learning:
-- Full-stack Web Development  
-- AI Tools & Machine Learning  
-- Flutter App Development
-
-### 👯 I’m looking to collaborate on:
-- [AGRITECH-Website](https://github.com/RuchikaTalele12/AGRITECH-Website.git)  
-- Open Source Hackathons & Real-life Problem Solving Projects
-
-### 💬 Ask me about:
-- Web Development (HTML, CSS, JavaScript, React)  
-- Python & AI/ML Basics  
-- Firebase & Flutter Integration
-
-### 📫 How to reach me:
-- ✉️ Email: **ruchikatalele1@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/ruchika-talele12)  
-- 📺 [YouTube: Rucha-Verse](https://www.youtube.com/c/rucha-verse)
-
-### ⚡ Fun fact:
-**I talk to my code — and sometimes, it actually listens 😄.**
-
-</td>
-<td align="center">
-
-<img src="https://github.com/RuchikaTalele12.png" width="200" alt="Ruchika Talele" style="border-radius: 100%;">
-
-
-</td>
-</tr>
-</table>
+- 💡 Final Year Engineering Student
+- 🧠 Specializing in AI/ML, App Dev, and Blockchain
+- 🌐 Actively building open-source & hackathon projects
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🛠️ Technical Skills
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" height="40" alt="Angular" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV" />
-</p>
+- **Languages**: Dart, Python, JavaScript, C, Java, HTML5, CSS3
+- **Frameworks/Libraries**: Flutter, Firebase, React, Node.js, Pandas, NumPy
+- **Tools**: Git, GitHub, Android Studio, VSCode, Canva, Figma, Colab
+- **Concepts**: Data Structures, OOP, AI/ML, APIs, Firebase Auth, Blockchain
 
 ---
 
-### ☕ Support Me
+## 🚀 Featured Projects
 
-<p>
-  <a href="https://www.buymeacoffee.com/ruchikatalele" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
+| **Project**           | **Overview**                                                                    | **Tech Stack**                     |
+|-----------------------|----------------------------------------------------------------------------------|------------------------------------|
+| **Girls' Safety App** | SOS, Shake Alert, Location Sharing, Firebase Integration                         | Flutter, Firebase, Dart            |
+| **DeepSteg**          | AI + Blockchain-powered Invisible Image Tracking (Hackathon Project)             | Python, Steganography, Web3        |
+| **AgriTech Portal**   | Farmer-centric web app for crop info, prices, weather, disease detection & more  | HTML, CSS, JS, Bootstrap, Firebase |
+| **Dance Classifier**  | Indian Classical Dance Recognition via Webcam + Android app                      | Python, TensorFlow, Kotlin         |
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Achievements & Experience
+- 🛡️ **Blockchain Security Researcher** – Smart contract & ZKP enthusiast
+- 📱 Developed 10+ mini projects in Flutter with Firebase
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikatalele12&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchikatalele12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+## 🎓 Certifications
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikatalele12&theme=tokyonight" alt="Streak Stats" />
-</p>
+- **Google**: Generative AI, AI for Everyone
+- **AWS Academy**: Machine Learning Foundations
+- **Coursera**: Flutter Development, Python for AI
+- **Infosys Springboard**: Blockchain Essentials, Web Development
+- **Simplilearn**: Advanced App Development
+
+<details>
+  <summary>Click to see full certifications</summary>
+
+  - Google: GenAI, AI/ML Foundations  
+  - AWS Academy: ML Foundations  
+  - Infosys Springboard: Web Dev, Blockchain  
+  - Coursera: Python, Flutter  
+  - Simplilearn: DevOps Basics, Flutter UI
+</details>
+
+---
+
+## 💬 Let’s Connect!
+
+- 📧 Email: [ruchikatal-ele@gmail.com](mailto:ruchikatal-ele@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/ruchikatal-ele](https://www.linkedin.com/in/ruchikatal-ele/)
+- 📱 GitHub: [github.com/RuchikaTalele12](https://github.com/RuchikaTalele12)
+
+---
+
+## ⚡ Fun Facts
+
+- 🌟 I love working on apps that solve real-life problems!
+- 📸 I’m building projects in NLP, AI/ML, and Smart India Hackathon themes.
+- 💬 Ask me about Flutter, Firebase, or AI automation tools.
+
+---
+
+## 📜 Contributions
+
+If you find my projects helpful, please ⭐️ or fork them!  
+Let's learn, share, and build something impactful together 🚀
+
+<p align="center"><b>Thanks for visiting my profile! 💙</b></p>
