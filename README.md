@@ -11,36 +11,46 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" alt="Quickdraw"/>
 </p>
-<p align="center">
-  <img src="https://github.com/ruchikatalele12.png" width="150" height="150" style="border-radius: 50%;" alt="Ruchika Talele Profile Picture" />
-</p>
 
 ---
+
+<table>
+<tr>
+<td>
 
 ### 🔭 I’m currently working on:
 - [Maintenanace-support-1](https://github.com/RuchikaTalele12/Maintenanace-support-1.git)
 
 ### 🌱 I’m currently learning:
-- Full-stack Web Development
-- AI Tools & Machine Learning
+- Full-stack Web Development  
+- AI Tools & Machine Learning  
 - Flutter App Development
 
 ### 👯 I’m looking to collaborate on:
-- [AGRITECH-Website](https://github.com/RuchikaTalele12/AGRITECH-Website.git)
+- [AGRITECH-Website](https://github.com/RuchikaTalele12/AGRITECH-Website.git)  
 - Open Source Hackathons & Real-life Problem Solving Projects
 
 ### 💬 Ask me about:
-- Web Development (HTML, CSS, JavaScript, React)
-- Python & AI/ML Basics
+- Web Development (HTML, CSS, JavaScript, React)  
+- Python & AI/ML Basics  
 - Firebase & Flutter Integration
 
 ### 📫 How to reach me:
-- ✉️ Email: **ruchikatalele1@gmail.com**
-- 💼 [LinkedIn](https://linkedin.com/in/ruchika-talele12)
+- ✉️ Email: **ruchikatalele1@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/ruchika-talele12)  
 - 📺 [YouTube: Rucha-Verse](https://www.youtube.com/c/rucha-verse)
 
 ### ⚡ Fun fact:
 **I talk to my code — and sometimes, it actually listens 😄.**
+
+</td>
+<td>
+
+<img src="https://github.com/RuchikaTalele12.png" width="180" height="180" style="border-radius: 50%;" alt="Ruchika Talele"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
