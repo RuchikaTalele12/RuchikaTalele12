@@ -46,7 +46,7 @@
 </td>
 <td align="center">
 
-<img src="https://github.com/RuchikaTalele12.png" width="200" height="200" alt="Ruchika Talele profile picture" style="border-radius: 50%;"/>
+<img src="https://github.com/RuchikaTalele12.png" width="200" height="200" alt="Ruchika Talele profile picture" style="border-radius: 70%;"/>
 
 </td>
 </tr>
