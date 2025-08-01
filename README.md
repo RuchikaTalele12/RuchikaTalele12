@@ -11,6 +11,9 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" alt="Quickdraw"/>
 </p>
+<p align="center">
+  <img src="https://github.com/ruchikatalele12.png" width="150" height="150" style="border-radius: 50%;" alt="Ruchika Talele Profile Picture" />
+</p>
 
 ---
 
