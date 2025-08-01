@@ -46,7 +46,7 @@
 </td>
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/your-3d-image.png" width="200" alt="Ruchika Talele">
+<img src="https://github.com/RuchikaTalele12.png" width="200" alt="Ruchika Talele" style="border-radius: 100%;">
 
 
 </td>
