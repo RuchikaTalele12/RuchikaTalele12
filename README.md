@@ -10,7 +10,6 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" alt="YOLO"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" alt="Quickdraw"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/git-merge-default.png" width="60" alt="Gitty Up!"/>
 </p>
 
 ---
