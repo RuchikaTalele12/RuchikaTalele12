@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <b>B.E. Computer Science & Engineering</b><br>
+  <b>B.E. Computer Science Engineering</b><br>
  J .T . Mahajan College Of Engineering Faizpur — Class of 2026<br>
   Maharashtra, India 
 </p>
