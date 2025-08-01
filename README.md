@@ -14,43 +14,54 @@
 
 ---
 
-<table>
-<tr>
-<td>
+<div align="center">
+  <table style="width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.2); border-radius: 20px; padding: 20px; background-color: #f9f9f9;">
+    <tr>
+      <td style="width: 70%; vertical-align: top; padding: 20px;">
 
-### 🔭 I’m currently working on:
-- [Maintenanace-support-1](https://github.com/RuchikaTalele12/Maintenanace-support-1.git)
+<h3>🔭 I’m currently working on:</h3>
+<ul>
+  <li><a href="https://github.com/RuchikaTalele12/Maintenanace-support-1.git">Maintenanace-support-1</a></li>
+</ul>
 
-### 🌱 I’m currently learning:
-- Full-stack Web Development  
-- AI Tools & Machine Learning  
-- Flutter App Development
+<h3>🌱 I’m currently learning:</h3>
+<ul>
+  <li>Full-stack Web Development</li>
+  <li>AI Tools & Machine Learning</li>
+  <li>Flutter App Development</li>
+</ul>
 
-### 👯 I’m looking to collaborate on:
-- [AGRITECH-Website](https://github.com/RuchikaTalele12/AGRITECH-Website.git)  
-- Open Source Hackathons & Real-life Problem Solving Projects
+<h3>👯 I’m looking to collaborate on:</h3>
+<ul>
+  <li><a href="https://github.com/RuchikaTalele12/AGRITECH-Website.git">AGRITECH-Website</a></li>
+  <li>Open Source Hackathons & Real-life Problem Solving Projects</li>
+</ul>
 
-### 💬 Ask me about:
-- Web Development (HTML, CSS, JavaScript, React)  
-- Python & AI/ML Basics  
-- Firebase & Flutter Integration
+<h3>💬 Ask me about:</h3>
+<ul>
+  <li>Web Development (HTML, CSS, JavaScript, React)</li>
+  <li>Python & AI/ML Basics</li>
+  <li>Firebase & Flutter Integration</li>
+</ul>
 
-### 📫 How to reach me:
-- ✉️ Email: **ruchikatalele1@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/ruchika-talele12)  
-- 📺 [YouTube: Rucha-Verse](https://www.youtube.com/c/rucha-verse)
+<h3>📫 How to reach me:</h3>
+<ul>
+  <li>✉️ Email: <strong>ruchikatalele1@gmail.com</strong></li>
+  <li>💼 <a href="https://linkedin.com/in/ruchika-talele12">LinkedIn</a></li>
+  <li>📺 <a href="https://www.youtube.com/c/rucha-verse">YouTube: Rucha-Verse</a></li>
+</ul>
 
-### ⚡ Fun fact:
-**I talk to my code — and sometimes, it actually listens 😄.**
+<h3>⚡ Fun fact:</h3>
+<p><strong>I talk to my code — and sometimes, it actually listens 😄.</strong></p>
 
-</td>
-<td>
+      </td>
+      <td align="center" style="width: 30%; padding: 20px;">
+        <img src="https://github.com/RuchikaTalele12.png" width="200" height="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Ruchika Talele"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://github.com/RuchikaTalele12.png" width="180" height="180" style="border-radius: 50%;" alt="Ruchika Talele"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
