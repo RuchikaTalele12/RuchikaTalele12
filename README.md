@@ -59,16 +59,6 @@ A passionate **Web Developer** and **Data Science Enthusiast**, currently pursui
 - **Infosys Springboard**: Blockchain Essentials, Web Dev  
 - **Simplilearn**: Advanced App Dev  
 
-<details>
-  <summary>Click to see full certifications</summary>
-
-  - Google: GenAI, AI/ML Foundations  
-  - AWS Academy: ML Foundations  
-  - Infosys Springboard: Web Dev, Blockchain  
-  - Coursera: Python, Data Science  
-  - Simplilearn: Web UI & DevOps Basics  
-</details>
-
 ---
 
 ## 💬 Let’s Connect!
@@ -79,7 +69,6 @@ A passionate **Web Developer** and **Data Science Enthusiast**, currently pursui
 
 ---
 
-## ⚡ Fun Facts
 
 - 🌟 I enjoy combining creativity with code for real-life projects  
 - 📸 I’m active in hackathons & collaborative tech building  
