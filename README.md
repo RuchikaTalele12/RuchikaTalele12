@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchikatal-ele/"><img src="https://img.shields.io/badge/LinkedIn-Ruchika--Talele-blue?logo=linkedin"></a>
-  <a href="mailto:ruchikatal-ele@gmail.com"><img src="https://img.shields.io/badge/Email-ruchikatal--ele@gmail.com-red?logo=gmail"></a>
+  <a href="mailto:ruchikatalele1@gmail.com"><img src="https://img.shields.io/badge/Email-ruchikatalele1@gmail.com-red?logo=gmail"></a>
 </p>
 
 ---
