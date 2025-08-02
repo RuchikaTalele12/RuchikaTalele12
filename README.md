@@ -73,7 +73,7 @@ A passionate **Web Developer** and **Data Science Enthusiast**, currently pursui
 
 ## 💬 Let’s Connect!
 
-- 📧 Email: [ruchikatalele1@gmail.com](mailto ruchikatalele1@gmail.com)  
+- 📧 Email: [ruchikatalele1@gmail.com]
 - 🔗 LinkedIn: [linkedin.com/in/ruchikatal-ele](https://www.linkedin.com/in/ruchika-talele12)  
 - 📱 GitHub: [github.com/RuchikaTalele12](https://github.com/RuchikaTalele12)
 
