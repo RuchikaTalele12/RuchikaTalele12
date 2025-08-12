@@ -86,4 +86,4 @@ Let’s learn, share, and grow together 🚀
 concern is with action alone, not with the fruit of action.</B> '
 - The Bhagavad Gita
 
-<p align="center"><b>Thanks for visiting my profile! 💙</b></p>
+<p align="center"><b>💁‍♀️Thanks for visiting my profile!💫</b></p>
