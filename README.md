@@ -81,4 +81,9 @@ A passionate **Web Developer** and **Data Science Enthusiast**, currently pursui
 If you find my projects helpful, please ⭐️ or fork them!  
 Let’s learn, share, and grow together 🚀
 
+ ---
+ ' <B>Let not the fruit of action be your motive to action. Your
+concern is with action alone, not with the fruit of action.</B> '
+- The Bhagavad Gita
+
 <p align="center"><b>Thanks for visiting my profile! 💙</b></p>
