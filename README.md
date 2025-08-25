@@ -5,84 +5,84 @@
 ---
 
 <p align="center">
-  <b>B.E. Computer Science Engineering</b><br>
+  <b>B.E. in Computer Science Engineering</b><br>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchika-talele12"><img src="https://img.shields.io/badge/LinkedIn-Ruchika--Talele-blue?logo=linkedin"></a>
   <a href="mailto:ruchikatalele1@gmail.com"><img src="https://img.shields.io/badge/Email-ruchikatalele1@gmail.com-red?logo=gmail"></a>
+  <a href="https://github.com/RuchikaTalele12"><img src="https://img.shields.io/badge/GitHub-RuchikaTalele12-black?logo=github"></a>
 </p>
 
 ---
 
-## 📚 About Me
+## 📌 About Me
+I’m a **Web Developer** and **Data Science Enthusiast**, passionate about building **intelligent systems** and **interactive UIs**. Currently in my **Final Year of B.E. Computer Science**, I love combining **logic + design** to create impactful solutions.
 
-A passionate **Web Developer** and **Data Science Enthusiast**, currently pursuing my B.E in **Computer Science**. I build intelligent systems and responsive UIs — combining logic with design to solve real-world problems.
-
-- 💡 Final Year Engineering Student  
-- 🧠 Specializing in Web Dev & Data Science  
-- 🌐 Building impactful open-source projects
+- 💡 **Specialization**: Web Development & Data Science  
+- 🛠 Actively contributing to **open-source projects**  
+- 🌱 Learning **AI/ML & Blockchain Security**  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Tech Stack
 
-- **Languages**: Python, JavaScript, HTML5, CSS3  
-- **Web Dev Tools**: React, Node.js, Bootstrap, Firebase  
-- **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Tools**: Git, GitHub, VSCode, Colab, Canva  
-- **Concepts**: Data Structures, APIs, Responsive Design, ML Basics
+- **Languages:** Python, JavaScript, HTML5, CSS3  
+- **Frameworks & Libraries:** React, Node.js, Bootstrap  
+- **Databases & Backend:** Firebase, REST APIs  
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Tools:** Git, GitHub, VSCode, Colab  
+- **Core Concepts:** Data Structures, Responsive Design, ML Basics  
 
 ---
 
 ## 🚀 Featured Projects
+
 | Project             | Description                                                                                       | Tech Stack                  |
 | ------------------- | ------------------------------------------------------------------------------------------------- | --------------------------- |
-| **AgriTech Portal** | A farmer-friendly web app providing crop info, market prices, disease alerts, and weather updates | HTML, CSS, JS, Firebase     |
-| **RutviAI**         | A desktop assistant that automates tasks and answers queries using AI, enhancing productivity     | Python, Tkinter, AI APIs    |
-
+| **AgriTech Portal** | Farmer-friendly platform for crop info, market prices, weather updates, and disease alerts       | HTML, CSS, JS, Firebase     |
+| **RutviAI**         | An AI-based desktop assistant for task automation & smart responses                              | Python, Tkinter, AI APIs    |
 
 ---
 
 ## 🏆 Achievements & Experience
-
-- 🛡️ **Blockchain Security Researcher** – Smart contract & ZKP enthusiast  
-- 📊 Built 10+ mini projects in Web and Data domains
+- 🔐 **Blockchain Security Researcher**: Worked on **Smart Contracts & Zero-Knowledge Proofs**  
+- 👩‍💻 Built **10+ mini projects** in Web Development & Data Science  
+- 🎯 Active participant in **Hackathons & Tech Competitions**  
 
 ---
 
-## 🎓 Certifications
-
+## 📜 Certifications
 - **Google**: Generative AI, AI for Everyone  
 - **AWS Academy**: Machine Learning Foundations  
 - **Coursera**: Python for AI, Web Development  
 - **Infosys Springboard**: Blockchain Essentials, Web Dev  
-- **Simplilearn**: Advanced App Dev  
+- **Simplilearn**: Advanced App Development  
 
 ---
 
-## 💬 Let’s Connect!
-
-- 📧 Email: [ruchikatalele1@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/ruchikatal-ele](https://www.linkedin.com/in/ruchika-talele12)  
-- 📱 GitHub: [github.com/RuchikaTalele12](https://github.com/RuchikaTalele12)
+## 🌍 Let’s Connect!
+<p>
+📧 Email: <a href="mailto:ruchikatalele1@gmail.com">ruchikatalele1@gmail.com</a>  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/ruchika-talele12">linkedin.com/in/ruchika-talele12</a>  
+💻 GitHub: <a href="https://github.com/RuchikaTalele12">github.com/RuchikaTalele12</a>  
+</p>
 
 ---
 
-
-- 🌟 I enjoy combining creativity with code for real-life projects  
-- 📸 I’m active in hackathons & collaborative tech building  
-- 💬 Ask me about web design, data analysis, or API integrations
+### 🌟 Fun Facts
+- ✨ Love creating **beautiful UIs** and **data-driven apps**  
+- 🎯 Always exploring **new tech & AI innovations**  
+- 💬 Ask me about **Web Dev, Data Analysis, API Integrations**  
 
 ---
 
 ## 📜 Contributions
+If you find my projects helpful, **⭐️ Star & Fork** them!  
+Let’s **collaborate, learn & grow together** 🚀
 
-If you find my projects helpful, please ⭐️ or fork them!  
-Let’s learn, share, and grow together 🚀
+---
 
- ---
- ' <B>Let not the fruit of action be your motive to action. Your
-concern is with action alone, not with the fruit of action.</B> '-The Bhagavad Gita
+<p align="center"><b>💡 "Your concern is with action alone, never with its fruits." – The Bhagavad Gita</b></p>
 
-<p align="center"><b>💁‍♀️Thanks for visiting my profile!💫</b></p>
+<p align="center"><b>💁‍♀️ Thanks for visiting my profile! 💫</b></p>
