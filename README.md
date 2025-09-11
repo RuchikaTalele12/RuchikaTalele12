@@ -42,7 +42,7 @@
 ## 🚀 **Featured Projects**
 | Project             | Description                                                                                     | Tech Stack                  |
 | ------------------- | --------------------------------------------------------------------------------------------- | --------------------------- |
-| **🌾 AgriTech Portal** | Farmer-friendly platform for **crop info, market prices & weather updates**                 | HTML, CSS, JS, Firebase     |
+| **🌾 AgriTech Portal** | Farmer-friendly platform for **crop info, market prices & weather updates**                 | HTML, CSS, JS, Apis , SQL , Firebase     |
 | **🤖 RutviAI**         | An **AI-based desktop assistant** for smart automation                                     | Python, Tkinter, AI APIs    |
 
 ---
