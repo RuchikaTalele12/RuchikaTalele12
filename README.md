@@ -83,12 +83,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuchikaTalele12&theme=radical" width="90%" />
 </p>
 
----
-
-## 🌈 **3D Contribution Graph**
-<p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
