@@ -1,3 +1,8 @@
+<!-- Profile Animation -->
+<p align="center">
+  <img src="https://cdn.iconscout.com/lottie/premium/thumb/girl-working-on-laptop-9061340-7397958.json" width="300" height="300">
+</p>
+
 <!-- 3D Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ruchika+Talele!;💻+Web+Developer+%7C+Data+Science+Enthusiast;🚀+Let's+Build+Something+Amazing!" alt="Typing SVG">
@@ -23,7 +28,7 @@
 ---
 
 ## 🎨 **About Me**
-✨ A creative **Web Developer** and **Data Science Enthusiast** blending **logic & design** to craft **impactful digital experiences**.  
+✨ A creative **Web Developer** and **Data Science Enthusiast** blending **logic & design** to craft impactful digital experiences.  
 
 - 🔭 **Currently working on:** AI, Web Development, Blockchain Security  
 - 🎓 **Pursuing:** B.E. in **Computer Science**  
@@ -42,7 +47,7 @@
 ## 🚀 **Featured Projects**
 | Project             | Description                                                                                     | Tech Stack                  |
 | ------------------- | --------------------------------------------------------------------------------------------- | --------------------------- |
-| **🌾 AgriTech Portal** | Farmer-friendly platform for **crop info, market prices & weather updates**                 | HTML, CSS, JS, Apis , SQL , Firebase     |
+| **🌾 AgriTech Portal** | Farmer-friendly platform for **crop info, market prices & weather updates**                 | HTML, CSS, JS, APIs, SQL, Firebase |
 | **🤖 RutviAI**         | An **AI-based desktop assistant** for smart automation                                     | Python, Tkinter, AI APIs    |
 
 ---
