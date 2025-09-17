@@ -88,4 +88,6 @@
 
 <p align="center"><b>💡 "Your concern is with action alone, never with its fruits." – The Bhagavad Gita</b></p>
 
+---
+
 <p align="center"><b>💁‍♀️ Thanks for visiting my profile! 💫</b></p>
